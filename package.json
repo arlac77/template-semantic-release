@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "semantic-release": "^15.14.0"
+    "semantic-release": "^16.0.0"
   },
   "template": {
     "files": [
