@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "semantic-release": "^17.0.3"
+    "semantic-release": "^17.0.4"
   },
   "template": {
     "usedBy": [
@@ -21,13 +21,13 @@
               "name": "Greenkeeper",
               "icon": "https://badges.greenkeeper.io/{{github.user}}/{{github.repo}}.svg",
               "url": "https://greenkeeper.io/",
-              "order" : 0.2
+              "order" : 0.21
             },
             {
               "name": "semantic-release",
               "icon": "https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg",
               "url": "https://github.com/{{github.user}}/{{github.repo}}",
-              "order" : 0.2
+              "order" : 0.22
             }
           ]
         }
