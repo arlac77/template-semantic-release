@@ -4,16 +4,16 @@
   },
   "template": {
     "usedBy": [
-      "arlac77/npm-package-template",
-      "arlac77/npm-package-template-esm-only",
-      "arlac77/npm-package-template-svelte",
-      "arlac77/npm-package-template-kronos-app",
-      "arlac77/npm-package-template-svelte-app",
-      "arlac77/npm-package-template-vue-app"
+      "arlac77/template-cli-app",
+      "arlac77/template-esm-only",
+      "arlac77/template-svelte",
+      "arlac77/template-kronos-app",
+      "arlac77/template-svelte-app",
+      "arlac77/template-vue-app"
     ],
-    "files": [
+    "mergers": [
       {
-        "merger": "Readme",
+        "type": "Readme",
         "pattern": "README.md",
         "options": {
           "badges": [
