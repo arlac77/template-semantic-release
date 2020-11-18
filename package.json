@@ -4,12 +4,13 @@
   },
   "template": {
     "usedBy": [
-      "arlac77/template-node-app",
       "arlac77/template-esm-only",
-      "arlac77/template-svelte-component",
       "arlac77/template-kronos-app",
+      "arlac77/template-node-app",
       "arlac77/template-svelte-app",
-      "arlac77/template-vue-app"
+      "arlac77/template-svelte-component",
+      "arlac77/template-vue-app",
+      "bitdiver/model"
     ],
     "mergers": [
       {
@@ -21,7 +22,7 @@
               "name": "semantic-release",
               "icon": "https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg",
               "url": "{{repository.url}}",
-              "order" : 0.21
+              "order": 0.21
             }
           ]
         }
