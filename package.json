@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "semantic-release": "^17.4.7"
+    "semantic-release": "^18.0.0"
   },
   "template": {
     "usedBy": [
