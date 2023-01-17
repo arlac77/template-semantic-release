@@ -1,5 +1,5 @@
 {
-  "version" : "0.0.0-semantic-release",
+  "version": "0.0.0-semantic-release",
   "devDependencies": {
     "semantic-release": "^20.0.2"
   },
