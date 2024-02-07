@@ -7,7 +7,7 @@
     "usedBy": [
       "arlac77/mf-hosting",
       "arlac77/template-arlac77-github",
-      "arlac77/template-esm-only",
+      "arlac77/template-javascript-component",
       "arlac77/template-kronos-app",
       "arlac77/template-node-app",
       "arlac77/template-svelte-app",
