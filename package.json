@@ -1,7 +1,7 @@
 {
   "version": "0.0.0-semantic-release",
   "devDependencies": {
-    "semantic-release": "^23.0.4"
+    "semantic-release": "^23.0.5"
   },
   "template": {
     "usedBy": [
