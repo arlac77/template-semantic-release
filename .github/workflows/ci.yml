@@ -20,6 +20,7 @@ jobs:
           node-version: 22.5.1
           cache: npm
           cache-dependency-path: 'package-lock.json'
+      - run: --delete-- npm ci
       - name: checkout
         run: npm ci
       - run: npx semantic-release
